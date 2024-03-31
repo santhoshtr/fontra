@@ -1,0 +1,1 @@
+web: fontra --launch filesytem .
